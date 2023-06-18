@@ -1,0 +1,93 @@
+.weekHead1 {
+  margin: 0px;
+  color: #fff;
+  padding-bottom: 0.7%;
+  font-size: 22px;
+}
+
+.weekendMov2 {
+  width: 92%;
+  margin: auto;
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  row-gap: 55px !important;
+  column-gap: 10px !important;
+}
+
+.childmovie1 {
+  margin-top: 0px;
+  height: 129px;
+  width: 225px;
+}
+
+.weekendMain {
+  width: 92%;
+  margin: auto;
+}
+
+.weekendMain1 {
+  width: 92%;
+  margin: auto;
+  margin-top: 1%;
+}
+
+.weekendMov1 {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+}
+
+.langmovie1 {
+  margin: 0.2%;
+  margin-top: 23px;
+  height: 160px;
+  width: 225px;
+}
+
+.weekMovie1 {
+  border-radius: 5px;
+  width: 100%;
+  transition: all 0.4s ease-out 100ms;
+  cursor: pointer;
+}
+
+.weekMovie1:hover {
+  transform: scale(1.2);
+}
+
+.week1 {
+  margin: 0 .2rem;
+  margin-top: 23px;
+  height: 175px;
+  /* width: 225px; */
+}
+
+.local {
+  display: flex;
+}
+
+.weekendMain1 {
+  display: none;
+}
+
+/*None div css start here*/
+.weekendMain1 {
+  width: 92%;
+  margin: auto;
+  margin-top: 1.5%;
+  display: none;
+}
+
+.weekHead2 {
+  margin: 0px;
+  color: #fff;
+  font-size: 18px;
+  padding-bottom: 0.7%;
+}
+
+.weekendArea1 {
+  width: 100%;
+  display: flex;
+  overflow-x: scroll;
+}
+
+/*None div css end here*/

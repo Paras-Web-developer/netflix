@@ -1,0 +1,120 @@
+.navBtn3 {
+  width: 25%;
+  font-size: 16px;
+  margin: 0px;
+  background-color: #fff;
+  border: none;
+  color: #333;
+  padding: 8px;
+  padding-right: 12px;
+  padding-left: 12px;
+  margin-right: 10px;
+  margin-bottom: 17%;
+  border-radius: 5px;
+  position: absolute;
+  margin-top: 12rem;
+  margin-left: 3rem;
+  opacity: 70%;
+}
+.recModBody {
+  padding: 0px;
+}
+.navBtn3:hover {
+  background-color: #333;
+  opacity: 90%;
+  color: #fff;
+}
+.modalEvil {
+  width: 87%;
+  margin: auto;
+  position: relative;
+  z-index: 0;
+}
+.recModVidArea{
+  background-color: #000;
+  padding-top: 2rem;
+}
+.recModVid {
+  display: flex;
+}
+.navPause2 {
+  width: 24px;
+  height: 24px;
+}
+.recModAll {
+  display: flex;
+  padding-top: 1rem;
+  padding-left: 0.7rem;
+  margin-bottom: 0.5rem;
+}
+.recModAge {
+  border: 1px solid #fff;
+  margin-left: 10px;
+  margin-right: 10px;
+  padding: 0px 5px;
+  margin-bottom: 0px;
+  font-size: 18px;
+}
+.recModYear {
+  margin-bottom: 0px;
+  font-size: 18px;
+}
+.recModQual {
+  border: 1px solid #fff;
+  padding: 0px 5px;
+  margin-bottom: 0px;
+  font-size: 13px;
+  height: 10%;
+  margin-top: 2.6px;
+}
+.recModHash {
+  margin-top: 0px;
+  padding-left: 9px;
+}
+.recModWrittenArea {
+  color: #fff;
+  background-color: #000;
+  padding-bottom: 1rem;
+}
+.recModWrapper{
+  overflow-x: scroll;
+}
+.aboutRating {
+  margin-bottom: 0;
+}
+.aboutMovie {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+.redModPara {
+  margin: 0px;
+  width: 100%;
+  padding-left: 9px;
+}
+.modalWidth {
+  width: 22.35%;
+}
+.recModTime {
+  margin-right: 10px;
+  margin-bottom: 0px;
+  font-size: 18px;
+}
+.crtsp {
+  color: #686868;
+}
+.about {
+  width: 87%;
+  margin: auto;
+}
+.recModPlace {
+  width: 87%;
+  margin: auto;
+}
+.recModAll {
+  width: 87%;
+  margin: auto;
+}
+
+.mod {
+  overflow: none;
+}

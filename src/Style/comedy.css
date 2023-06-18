@@ -1,0 +1,65 @@
+.comHead1 {
+  margin: 0px;
+  color: #fff;
+  padding-bottom: 0.7%;
+  font-size: 22px;
+}
+
+.comedyMain {
+  width: 92%;
+  margin: auto;
+}
+
+.comMovie1 {
+  border-radius: 5px;
+  width: 100%;
+  transition: all 0.4s ease-out 100ms;
+  cursor: pointer;
+}
+
+.comMovie1:hover {
+  transform: scale(1.2);
+}
+
+.local {
+  display: flex;
+}
+
+.com1 {
+  margin: 2%;
+  margin-top: 23px;
+  height: 175px;
+}
+
+.comedyMain1 {
+  display: none;
+}
+
+
+
+/*None div css start here*/
+.comedyMain1 {
+  width: 92%;
+  margin: auto;
+  margin-top: 1.5%;
+  display: none;
+}
+
+.comHead2 {
+  margin: 0px;
+  color: #fff;
+  font-size: 18px;
+  padding-bottom: 0.7%;
+}
+
+.comedyArea1 {
+  width: 100%;
+  display: flex;
+  overflow-x: scroll;
+}
+
+.comedyMov1 {
+  display: flex;
+}
+
+/*None div css end here*/

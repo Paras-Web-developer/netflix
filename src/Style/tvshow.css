@@ -1,0 +1,65 @@
+.tvHead1 {
+  margin: 0px;
+  color: #fff;
+  padding-bottom: 0.7%;
+  font-size: 22px;
+}
+
+.tvShow {
+  border-radius: 5px;
+  width: 270px;
+  transition: all 0.4s ease-out 100ms;
+  cursor: pointer;
+}
+
+.tvShow:hover {
+  transform: scale(1.2);
+}
+
+.tvMain {
+  width: 92%;
+  margin: auto;
+}
+
+.tvShow {
+  margin: 0.2%;
+}
+
+.tvMovie1 {
+  margin: 2%;
+  margin-top: 23px;
+  height: 175px;
+  /* width: 225px; */
+}
+
+.tvShow {
+  width: 100%;
+}
+
+
+/*None page css start here*/
+.tvMain1 {
+  width: 92%;
+  margin: auto;
+  margin-top: 1.5%;
+  display: none;
+}
+
+.tvHead2 {
+  margin: 0px;
+  color: #fff;
+  font-size: 18px;
+  padding-bottom: 0.7%;
+}
+
+.tvArea1 {
+  width: 100%;
+  display: flex;
+  overflow-x: scroll;
+}
+
+.tvShows1 {
+  display: flex;
+}
+
+/*None page css end here*/

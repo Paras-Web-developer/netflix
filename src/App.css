@@ -1,0 +1,9 @@
+.slick-arrow.slick-prev {
+    position: absolute !important;
+    right: 0 !important;
+}
+
+.slick-slide {
+
+    /* margin: 1.5rem; */
+}

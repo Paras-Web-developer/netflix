@@ -1,0 +1,81 @@
+.THead1 {
+  margin: 0px;
+  color: #fff;
+  padding-bottom: 0.7%;
+  font-size: 22px;
+}
+
+.trendMain {
+  width: 92%;
+  margin: auto;
+}
+
+.trendMov1 {
+  border-radius: 5px;
+  width: 270px;
+  transition: all 0.4s ease-out 100ms;
+  cursor: pointer;
+}
+
+.trendMov1:hover {
+  transform: scale(1.2);
+}
+
+.local {
+  display: flex;
+}
+
+.movie1 {
+  margin: 0.2%;
+}
+
+.movie2 {
+  margin: 0.2%;
+  margin-left: 0px;
+}
+
+.movie3 {
+  margin: 0.2%;
+  margin-right: 0px;
+}
+
+.endmovie1 {
+  margin: 2%;
+  margin-top: 23px;
+  height: 175px;
+  /* width: 225px; */
+}
+
+.trendMov1 {
+  width: 100%;
+}
+
+.trendMain1 {
+  display: none;
+}
+
+
+/*None div css start here*/
+.trendMain1 {
+  width: 92%;
+  margin: auto;
+}
+
+.THead2 {
+  margin: 0px;
+  color: #fff;
+  font-size: 18px;
+  padding-bottom: 0.7%;
+}
+
+.trendArea1 {
+  width: 100%;
+  display: flex;
+  overflow-x: scroll;
+}
+
+.trendMovies1 {
+  display: flex;
+}
+
+/*None div end start here*/

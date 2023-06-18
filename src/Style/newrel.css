@@ -1,0 +1,66 @@
+.newHead1 {
+  margin: 0px;
+  color: #fff;
+  padding-bottom: 0.7%;
+  font-size: 22px;
+}
+
+.newrelMain {
+  width: 92%;
+  margin: auto;
+}
+
+.new1 {
+  border-radius: 5px;
+  width: 100%;
+  transition: all 0.4s ease-out 100ms;
+  cursor: pointer;
+}
+
+.new1:hover {
+  transform: scale(1.2);
+}
+
+.local {
+  display: flex;
+}
+
+.newRel {
+  margin: 2%;
+  margin-top: 23px;
+  height: 175px;
+  /* width: 225px; */
+}
+
+.newrelMain1 {
+  display: none;
+}
+
+
+
+/*None div css start here*/
+.newrelMain1 {
+  width: 92%;
+  margin: auto;
+  margin-top: 1.5%;
+  display: none;
+}
+
+.newHead2 {
+  margin: 0px;
+  color: #fff;
+  font-size: 18px;
+  padding-bottom: 0.7%;
+}
+
+.newrelArea1 {
+  width: 100%;
+  display: flex;
+  overflow-x: scroll;
+}
+
+.newrelMov1 {
+  display: flex;
+}
+
+/*None div css end here*/

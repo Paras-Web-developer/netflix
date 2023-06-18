@@ -1,0 +1,147 @@
+.tHead1 {
+  width: 92%;
+  margin: auto;
+  margin-top: 3%;
+  padding: 0px;
+  color: #fff;
+  font-size: 22px;
+  margin-bottom: 0.8%;
+}
+
+.Nummm {
+  background-color: #fff;
+  border-radius: 50%;
+  width: 56px;
+  cursor: pointer;
+}
+
+.top1 {
+  display: flex;
+  width: 270px;
+  height: 190px;
+  background-repeat: no-repeat;
+  background-position: 9% 50%;
+  margin: 0.2%;
+}
+
+.top2 {
+  display: flex;
+  height: 190px;
+  width: 270px;
+  margin: 0.2%;
+  background-repeat: no-repeat;
+  background-size: 30% 37%;
+  background-position: 12% 50%;
+}
+
+.top3 {
+  display: flex;
+  height: 190px;
+  /* width: 270px; */
+  background-size: 30% 37%;
+  background-repeat: no-repeat;
+  background-position: 12% 50%;
+  margin: 0.2%;
+}
+
+.top4 {
+  display: flex;
+  height: 190px;
+  width: 0px !important;
+  margin: 0.2%;
+  background-size: 35% 45%;
+  background-repeat: no-repeat;
+  background-position: 12% 50%;
+}
+
+.top5 {
+  display: flex;
+  height: 190px;
+  width: 270px;
+  margin: 0.2%;
+  background-size: 28% 34%;
+  background-repeat: no-repeat;
+  background-position: 13% 50%;
+}
+
+.top6 {
+  display: flex;
+  height: 190px;
+
+  width: 270px;
+  margin: 0.2%;
+  background-repeat: no-repeat;
+  background-size: 33% 42%;
+  background-position: 12% 50%;
+}
+
+.top7 {
+  display: flex;
+  height: 190px;
+  margin: 0.2%;
+  width: 270px;
+  background-repeat: no-repeat;
+  background-position: 16% 50%;
+  background-size: 26% 31%;
+}
+
+.top8 {
+  display: flex;
+  height: 190px;
+
+  width: 270px;
+  margin: 0.2%;
+  background-size: 30% 35%;
+  background-repeat: no-repeat;
+  background-position: 12% 50%;
+}
+
+.top9 {
+  display: flex;
+  height: 190px;
+  width: 270px;
+  margin: 0.2%;
+  background-repeat: no-repeat;
+  background-position: 10% 50%;
+}
+
+.top10 {
+  display: flex;
+  width: 270px;
+  margin: 0.2%;
+  background-repeat: no-repeat;
+  background-size: 28% 35%;
+  background-position: 12% 50%;
+  height: 190px;
+}
+
+.topTen {
+  margin-bottom: 0.4%;
+  height: 190px;
+}
+
+.topArea {
+  width: 92%;
+  margin: auto;
+  height: 190px;
+}
+
+.oneImg {
+  border-radius: 5px;
+  width: 100%;
+  height: 100%;
+  margin: 0 3rem;
+  position: relative;
+  cursor: pointer;
+}
+
+.Nummm {
+  position: absolute;
+}
+
+.sem {
+  display: flex;
+  width: 270px;
+  height: 160px;
+  cursor: pointer;
+}

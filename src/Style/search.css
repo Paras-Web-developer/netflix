@@ -1,0 +1,27 @@
+.searcWrapper {
+  background-color: #000;
+}
+.seachHead {
+  width: 100%;
+  color: #fff;
+}
+.searchMain {
+  width: 92%;
+  margin: auto;
+}
+.resultMovies {
+  margin: 0.2%;
+  margin-top: 23px;
+  height: 175px;
+  width: 225px;
+}
+.recMov1 {
+  border-radius: 5px;
+  width: 100%;
+  transition: all 0.4s ease-out 100ms;
+  cursor: pointer;
+}
+.resultedMov{
+ display: grid;
+ grid-template-columns: repeat(6, 1fr);
+}

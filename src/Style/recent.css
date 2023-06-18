@@ -1,0 +1,236 @@
+.recHEad1 {
+  margin: 0px;
+  color: #fff;
+  font-size: 22px;
+  padding-bottom: 0.7%;
+}
+
+.closeBtn {
+  border: none;
+  background-color: rgb(39, 38, 38);
+}
+
+.modal-content {
+  border: none;
+}
+
+button.btn-close {
+  background-color: #fff;
+  border: none;
+}
+
+.recMov1 {
+  width: 270px;
+  transition: all 0.4s ease-out 100ms;
+  border-radius: 5px;
+  width: 100% !important;
+  cursor: pointer;
+}
+
+.recMov1:hover {
+  transform: scale(1.2);
+}
+
+.recentWrapper {
+  background-color: #000;
+}
+
+.slide {
+  width: 22px;
+  margin-bottom: 0px;
+}
+
+.sright {
+  position: absolute;
+  z-index: 9;
+}
+
+.local {
+  display: flex;
+}
+
+.recentMain {
+  width: 92%;
+  margin: auto;
+  margin-top: 1.5%;
+}
+
+.recentMovies {
+  width: 100%;
+}
+
+.plus {
+  width: 46px;
+  margin-left: 12.3rem;
+}
+
+.plus:hover {
+  cursor: pointer;
+}
+
+.plus:active~.Tick {
+  display: inline;
+}
+
+.plus:active {
+  display: none;
+}
+
+.Tick {
+  width: 46px;
+  margin-left: 12.3rem;
+  display: none;
+}
+
+.Tick:hover {
+  cursor: pointer;
+}
+
+.recModAll {
+  display: flex;
+}
+
+.recModAge {
+  height: 25px;
+  margin-top: 0.7rem;
+}
+
+.recModQual {
+  height: 25px;
+  margin-top: 0.7rem;
+  padding-top: 3px;
+}
+
+.recModYear {
+  height: 22px;
+  margin-top: 0.7rem;
+}
+
+.recModTime {
+  margin-top: 0.8rem;
+  height: 22px;
+}
+
+.listMovies {
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+}
+
+.rmovie1 {
+  margin: 2%;
+  margin-top: 23px;
+  height: 175px;
+  /* width: 225px; */
+}
+
+.Awardmovie1 {
+  margin: 2%;
+  margin-top: 23px;
+  height: 175px;
+  /* width: 225px; */
+}
+
+.Policemovie1 {
+  margin: 2%;
+  margin-top: 23px;
+  height: 175px;
+  /* width: 225px; */
+}
+
+.tvTrenmovie1 {
+  margin: 2%;
+  margin-top: 23px;
+  height: 175px;
+  /* width: 225px; */
+}
+
+.Mmovie1 {
+  margin: 2%;
+  margin-top: 23px;
+  height: 175px;
+  /* width: 225px; */
+}
+
+.Realmovie1 {
+  margin: 2%;
+  margin-top: 23px;
+  height: 175px;
+  /* width: 225px; */
+}
+
+.Minutmovie1 {
+  margin: 2%;
+  margin-top: 23px;
+  height: 175px;
+  /* width: 225px; */
+}
+
+.movie1 {
+  margin: 2%;
+  margin-top: 23px !important;
+  height: 175px;
+  /* width: 225px; */
+}
+
+.childmovie1 {
+  margin: 2%;
+  margin-top: 23px;
+  height: 175px;
+  /* width: 225px; */
+}
+
+::-webkit-scrollbar {
+  position: absolute !important;
+  top: 0 !important;
+  width: 12px;
+  height: 3px !important;
+}
+
+::-webkit-scrollbar-track {
+  background-color: #000;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #fff;
+  /* height: 5px !important; */
+  width: 1rem !important;
+  border-radius: 3px !important;
+  background-clip: content-box !important;
+}
+
+.slick-list {
+  width: 100%;
+}
+
+.slick-track {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+/*None div css start here*/
+.recentMain1 {
+  width: 92%;
+  margin: auto;
+  margin-top: 1.5%;
+  display: none;
+}
+
+.recHEad2 {
+  margin: 0px;
+  color: #fff;
+  font-size: 18px;
+  padding-bottom: 0.7%;
+}
+
+.recentArea1 {
+  width: 100%;
+  display: flex;
+  overflow-x: scroll;
+}
+
+.recentMovies1 {
+  display: flex;
+}
+
+/*None div css End here*/

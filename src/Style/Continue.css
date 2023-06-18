@@ -1,0 +1,58 @@
+.contHead1 {
+  margin: 0px;
+  color: #fff;
+  padding-bottom: 0.7%;
+  font-size: 22px;
+}
+.contShow {
+  border-radius: 5px;
+  width: 270px;
+  transition: all 0.4s ease-out 100ms;
+}
+.contShow:hover {
+  transform: scale(1.2);
+}
+.comovie1 {
+  margin-right: 10px;
+  margin-top: 15px;
+  height: 175px;
+  width: 225px;
+}
+.contMain {
+  width: 92%;
+  margin: auto;
+}
+.local {
+  display: flex;
+}
+.contShow {
+  margin: 0.2%;
+  width: 100%;
+}
+.contMov{
+  display: flex;
+}
+
+
+/*None div css start here*/
+.contMain1 {
+  width: 92%;
+  margin: auto;
+  margin-top: 1.5%;
+  display: none;
+}
+.contHead2 {
+  margin: 0px;
+  color: #fff;
+  font-size: 18px;
+  padding-bottom: 0.7%;
+}
+.contArea1 {
+  width: 100%;
+  display: flex;
+  overflow-x: scroll;
+}
+.contMov1{
+  display: flex;
+}
+/*None div css end here*/
