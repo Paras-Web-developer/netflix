@@ -18,7 +18,8 @@ function Allroutes() {
   const isAuthorized = useSelector((state) => state?.Auth?.token);
   console.log(isAuthorized);
   return (
-    <BrowserRouter>
+    <>
+      <BrowserRouter>
       {isAuthorized ? (
         <Routes>
           <Route exact path="/" element={<Landing />} />
@@ -37,6 +38,7 @@ function Allroutes() {
         </Routes>
       )}
     </BrowserRouter>
+    </>
   );
 }
 export default Allroutes;
